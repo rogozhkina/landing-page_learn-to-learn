@@ -1,2 +1,5 @@
 # Landing-page_Learn-to-learn
-HTML, CSS, flex, grid, animation
+
+Одностраничный сайт с элементами анимации, интерактивными ссылками.
+
+Стек: HTML, CSS, flex, grid, animation
